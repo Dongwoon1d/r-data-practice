@@ -1,15 +1,15 @@
-# r-data-practice
+# open-source-practice
 
-Small R practice projects focused on data analysis and visualization.
+Notes and practice for learning GitHub workflows and open-source project structure.
 
 ## About
-This repository contains small practice work in R. I use it to build familiarity with data cleaning, summary statistics, and simple visualizations.
+This repository is a small space for practicing GitHub basics and learning how open-source projects are organized.
 
 ## Goals
-- practice working with data in R
-- create simple plots and summaries
-- organize analysis files clearly
-- build a small record of my learning
+- understand repository structure
+- practice reading and writing README files
+- learn basic GitHub workflow
+- become more familiar with collaborative software projects
 
 ## Current Contents
-This repository will include small R scripts and short practice analyses.
+This repository will include short notes and small examples related to GitHub and open-source tools.
